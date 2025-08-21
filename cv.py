@@ -11,3 +11,5 @@ plt.axis("off")
 
 #saving the image
 cv2.imwrite("output.jpg",img)
+
+plt.show()
